@@ -9,22 +9,19 @@
 
 </div>
 
-## About
-
-Masters student in Computational Linguistics at Heidelberg University. I work on machine learning, natural language processing, and full-stack applications that turn language and data into useful products.
-
-## Currently
-
-- Building [SnapSpend](https://github.com/MohammeddArsh/SnapSpend), an AI-powered receipt scanner and finance tracker
-- Studying the intersection of linguistics and machine learning
-
-## Featured Project
+## Featured Projects
 
 ### [SnapSpend](https://github.com/MohammeddArsh/SnapSpend)
 
 Scan receipts and manage finances with AI-parsed spending insights, PDF reports, and a full dashboard.
 
 [![Repo](https://img.shields.io/badge/View_Repo-14b8a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammeddArsh/SnapSpend)
+
+### [Ank — AI Voice Assistant](https://github.com/MohammeddArsh/ank-voice-assistant)
+
+Full-stack conversational AI assistant with a speech interface — speech recognition, LLM inference, and text-to-speech in a clean dark web UI.
+
+[![Repo](https://img.shields.io/badge/View_Repo-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammeddArsh/ank-voice-assistant)
 
 ## Tech Stack
 
