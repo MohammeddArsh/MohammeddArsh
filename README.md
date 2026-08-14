@@ -1,6 +1,3 @@
-## Hi, welcome to my github
-
-
 ## Featured Projects
 
 ### [SnapSpend](https://github.com/MohammeddArsh/SnapSpend)
