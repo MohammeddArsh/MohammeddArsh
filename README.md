@@ -24,11 +24,3 @@ Full-stack conversational AI assistant with a speech interface — speech recogn
 
 [![Repo](https://img.shields.io/badge/View_Repo-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammeddArsh/ank-voice-assistant)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-ank--voice--assistant.onrender.com-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://ank-voice-assistant.onrender.com)
-
----
-
-<div align="center">
-
-Reach out on [LinkedIn](https://www.linkedin.com/in/mohammed-arsh/).
-
-</div>
