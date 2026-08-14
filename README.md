@@ -1,8 +1,5 @@
-<div>
+## Hi, welcome to my github
 
-## Hey, what's up
-
-</div>
 
 ## Featured Projects
 
